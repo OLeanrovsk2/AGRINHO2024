@@ -1,4 +1,22 @@
-html {
-  height: 100%;
+.4main {
+  
+}
+
+.header {
   width: 100%;
+  height: 600px;
+  
+}
+
+.li{
+ display: inline;
+  margin-right: 60px;
+  font-size: 20px;
+}
+
+#head {
+  background: #;
+}
+#listaHead {
+  display: inline;
 }
